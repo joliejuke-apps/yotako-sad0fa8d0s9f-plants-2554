@@ -1,0 +1,31 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.style1,
+.style2 {
+  margin-left: 26.666666666666668vw
+}
+.style1 {
+  color: #707070;
+  font-family: roboto-1,serif;
+  font-size: 5.333333333333333vw;
+  margin-top: 26.666666666666668vw;
+  z-index: 0
+}
+.style2 {
+  background-color: #fff;
+  border-left: .26666666666666666vw solid #707070;
+  border-right: .26666666666666666vw solid #707070;
+  border-top: .26666666666666666vw solid #707070;
+  border-bottom: .26666666666666666vw solid #707070;
+  margin-top: 29.599999999999998vw;
+  width: 12.8vw;
+  height: 1.0666666666666667vw;
+  z-index: 1
+}
+.breakpoint-0 {
+  display: block
+}
